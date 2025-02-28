@@ -1,6 +1,4 @@
-# gator
-
-## Gator is an RSS aggreGATOR (Get it?) CLI that I wrote as part of a guided project on Boot.dev, a backend programming course.
+## gator is an RSS aggreGATOR (Get it?) CLI that I wrote as part of a guided project on Boot.dev, a backend programming course.
 
 ### To use gator, you'll need to install Postgres and Go toolchain.
 
